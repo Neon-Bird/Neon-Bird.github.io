@@ -7,4 +7,4 @@ date: 2025-05-09
 
 aw shit man, i dunno. yeh. that'siit. 
 
-![someflowerpic](/Users/g-a-k/Desktop/Neon-Bird.github.io/assets/images/thumbnailwistel2.jpeg)
+![someflowerpic](/assets/images/thumbnailwistel2.jpeg)
