@@ -6,3 +6,7 @@ date: 2025-05-09
 # late spring
 
 aw shit man, i dunno. yeh. that'siit. 
+
+
+
+![thumbnailwistel2.jpeg](/Users/g-a-k/Desktop/thumbnailwistel2.jpeg)
