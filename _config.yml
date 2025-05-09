@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Neon"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Im a bird"
+  bio    : "Im a bird."
 
 footer:
 
@@ -67,11 +67,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
